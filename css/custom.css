@@ -1,0 +1,8 @@
+a.mdl-navigation__link i {
+    height: auto !important;
+    line-height: 0 !important;
+}
+
+.mdl-textfield.mdl-js-textfield.mdl-textfield--expandable.is-upgraded{
+	margin-top: 10px!important;
+}
